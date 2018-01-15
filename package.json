@@ -1,0 +1,24 @@
+{
+  "name": "bibuilder",
+  "version": "1.0.0",
+  "description": "A web application for building barcodes from datasources to automate data entry.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamescalderon/BIBuilder.git"
+  },
+  "author": "James Calderon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamescalderon/BIBuilder/issues"
+  },
+  "homepage": "https://github.com/jamescalderon/BIBuilder#readme",
+  "dependencies": {
+    "next": "^4.2.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
